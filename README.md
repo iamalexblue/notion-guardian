@@ -6,7 +6,7 @@ Notion Guardian 提供了一种快速的方法，可以在一个私有存储库�
 该工具将运行导出的逻辑和实际工作区数据分离到两个存储库中。这样你的备份就不会和其他脚本混在一起。如果您希望有一个单向回复的解决方案，或者想要备份工作区的特定块，可以使用 upleveled 的[ notion-backup fork ]( https://github.com/upleveled/notion-backup )。
 
 # Backup status
-[![Backup Notion Workspace](https://github.com/iamalexblue/notion-guardian/actions/workflows/backup.yml/badge.svg?event=workflow_run)](https://github.com/iamalexblue/notion-guardian/actions/workflows/backup.yml)
+[![Backup Notion Workspace](https://github.com/iamalexblue/notion-guardian/actions/workflows/backup.yml/badge.svg)](https://github.com/iamalexblue/notion-guardian/actions/workflows/backup.yml)
 
 # References
 - [Automated Notion backups
